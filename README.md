@@ -1,7 +1,7 @@
 # DSC180B
 Exploring Predictive Policing in San Diego for DSC180B Capstone Project
 
-[Here](https://stephaniemoore14.github.io/predictive_policing_website/) is the link to the website.
+[Here](https://stephaniemoore14.github.io/predictive_policing_website/) is the link to the website and the [final research report](https://github.com/StephanieMoore14/predictive_policing_website/blob/gh-pages/assets/Final%20Report.pdf).
 
 Link to the GIS map can be found at https://arcg.is/1CmX0r
 
